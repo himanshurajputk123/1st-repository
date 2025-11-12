@@ -1,3 +1,4 @@
 # 1st-repository
-learning basic of git and github
+Learning basic of git and github.
+<br>
 Author: Himansh_u.rjpt
